@@ -1,39 +1,21 @@
-<h1 align="center">Hi 👋, I'm Bastian</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+# 💫 About Me:
+<br>🌱 I’m currently learning a whole variety of things! Check out my repos :)<br>💬 Ask me about Linux and I won't stop talking<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halsschmerzen&label=Profile%20views&color=0e75b6&style=flat" alt="halsschmerzen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halsschmerzen" alt="halsschmerzen" /></a> </p>
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=halsschmerzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=halsschmerzen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=halsschmerzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on [NaN](NaN)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=halsschmerzen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **React, Python**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=halsschmerzen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👯 I’m looking to collaborate on [NaN](NaN)
+---
+[![](https://visitcount.itsvg.in/api?id=halsschmerzen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🤝 I’m looking for help with [NaN](NaN)
-
-- 👨‍💻 All of my projects are available at [github.com/halsschmerzen](github.com/halsschmerzen)
-
-- 📝 I regularly write articles on [NaN](NaN)
-
-- 💬 Ask me about **Linux (i use arch btw)**
-
-- 📄 Know about my experiences [NaN](NaN)
-
-- ⚡ Fun fact **I can cook minute rice in 58 seconds**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/bastianek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bastianek" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=halsschmerzen&show_icons=true&locale=en&layout=compact" alt="halsschmerzen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halsschmerzen&show_icons=true&locale=en" alt="halsschmerzen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=halsschmerzen&" alt="halsschmerzen" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
