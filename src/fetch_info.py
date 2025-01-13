@@ -7,14 +7,20 @@ from collections import Counter
 with open("config.json", "r") as f:
     config = json.load(f)
 
+with open('config.json') as config_file:
+    config = json.load(config_file)
+
 def get_repos(g: Github):
-    return [repo for repo in g.get_user().get_repos(type="public") if repo.visibility == "public"]
+    exclude_organizations = config.get("exclude_organizations", False)
+    repos = [repo for repo in g.get_user().get_repos(type="public") if repo.visibility == "public"]
+    if exclude_organizations:
+        repos = [repo for repo in repos if repo.owner.type != "Organization"]
+    return repos
 
 def get_lines_of_code(g: Github) -> int:
     total_lines = 0
-
     for repo in get_repos(g):
-        if not repo.fork and repo.visibility == "public":  # Double check visibility ! I don't want to count private repos in order to respect the user's privacy.
+        if repo.visibility == "public":  # Double check visibility again!
             try:
                 languages = repo.get_languages()
                 total_lines += sum(languages.values())
