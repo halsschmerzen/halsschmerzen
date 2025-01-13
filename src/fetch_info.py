@@ -11,7 +11,7 @@ with open('config.json') as config_file:
     config = json.load(config_file)
 
 def get_repos(g: Github):
-    exclude_organizations = config.get("exclude_organizations", False)
+    exclude_organizations = config.get("exclude_organizations", True)
     repos = [repo for repo in g.get_user().get_repos(type="public") if repo.visibility == "public"]
     if exclude_organizations:
         repos = [repo for repo in repos if repo.owner.type != "Organization"]
